@@ -1,0 +1,25 @@
+{
+    "name": "nocticons",
+    "version": "0.0.0",
+    "description": "Octicons, but brighter.",
+    "scripts": {
+        "prepare": "npm run build",
+        "build": "npm run format && node builder",
+        "format": "prettier --write \"**/*.{js,json,yaml,md}\"",
+        "test": "jest --coverage"
+    },
+    "keywords": [],
+    "author": "JacobLinCool <jacoblincool@gmail.com> (https://github.com/JacobLinCool)",
+    "license": "MIT",
+    "files": [
+        "lib",
+        "builder"
+    ],
+    "devDependencies": {
+        "@primer/octicons": "16.2.0",
+        "@types/jest": "27.4.0",
+        "@types/node": "17.0.8",
+        "jest": "27.4.7",
+        "prettier": "2.5.1"
+    }
+}
