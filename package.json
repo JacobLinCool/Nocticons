@@ -16,7 +16,7 @@
         "builder"
     ],
     "devDependencies": {
-        "@primer/octicons": "16.2.0",
+        "@primer/octicons": "17.5.0",
         "@types/jest": "27.4.0",
         "@types/node": "17.0.8",
         "jest": "27.4.7",
