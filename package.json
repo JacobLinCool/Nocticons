@@ -17,9 +17,9 @@
     ],
     "devDependencies": {
         "@primer/octicons": "16.2.0",
-        "@types/jest": "27.4.0",
+        "@types/jest": "27.5.2",
         "@types/node": "17.0.8",
-        "jest": "27.4.7",
+        "jest": "27.5.1",
         "prettier": "2.5.1"
     },
     "homepage": "https://github.com/JacobLinCool/Nocticons#readme",
