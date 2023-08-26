@@ -19,7 +19,7 @@
         "@primer/octicons": "16.2.0",
         "@types/jest": "27.4.0",
         "@types/node": "17.0.8",
-        "jest": "27.4.7",
+        "jest": "29.6.4",
         "prettier": "2.5.1"
     },
     "homepage": "https://github.com/JacobLinCool/Nocticons#readme",
